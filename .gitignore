@@ -1,0 +1,4 @@
+.env
+/project_trash
+/mysql-data
+/__pycache__
