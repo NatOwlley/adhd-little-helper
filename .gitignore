@@ -1,4 +1,4 @@
 .env
 project_trash/
-mysql-data/
+mysql_data/
 __pycache__/
